@@ -59,7 +59,7 @@ def generate_launch_description():
         ),
 
         DeclareLaunchArgument('zedx_right_serial_number', 
-                              default_value='46411394', 
+                              default_value='40051193', 
                               description='zedx_right_serial_number'
         ),
         
